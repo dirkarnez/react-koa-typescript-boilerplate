@@ -1,6 +1,6 @@
 # React + Koa Boilerplate
 
-### Features
+## Features
 * [Bluebird](https://github.com/petkaantonov/bluebird)
 * [Gulp](https://github.com/gulpjs/gulp)
 * [Koa v2](https://github.com/koajs/koal)
@@ -11,7 +11,7 @@
 * [Typescript v2](https://github.com/Microsoft/TypeScript)
 * [Webpack](https://github.com/webpack)
 
-### Usage
+## Usage
 compile app & lift server on port 3000
 ```
 npm i
