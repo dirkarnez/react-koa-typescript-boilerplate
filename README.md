@@ -14,6 +14,6 @@
 ## Usage
 ```
 npm i
-npm start
+npm start // compiles front & backend into ./build dir and lifts Koa server on port 3000
 ```
 
