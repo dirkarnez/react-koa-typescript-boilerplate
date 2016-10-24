@@ -12,9 +12,8 @@
 * [Webpack](https://github.com/webpack)
 
 ## Usage
+compile app into build dir and lift Koa server on port 3000
 ```
 npm i
 npm start
 ```
-compile app into build dir and lift Koa server on port 3000
-
