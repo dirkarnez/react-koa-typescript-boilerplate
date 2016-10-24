@@ -16,5 +16,5 @@
 npm i
 npm start
 ```
-compile front & backend into build dir and lift Koa server on port 3000
+compile app into build dir and lift Koa server on port 3000
 
