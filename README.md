@@ -1,5 +1,5 @@
 # React + Koa Boilerplate
-A minimal boilerplate project built with React.js, Redux.js, Koa.js, Webpack & Typescript
+A minimal boilerplate project built with React.js, Redux.js, Koa.js, Webpack & Typescript.
 
 ## Features
 * [Bluebird](https://github.com/petkaantonov/bluebird)
