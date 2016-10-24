@@ -10,3 +10,10 @@
 * [Sass](https://github.com/sass/sass)
 * [Typescript v2](https://github.com/Microsoft/TypeScript)
 * [Webpack](https://github.com/webpack)
+
+## Usage
+```
+npm i
+npm start
+```
+
